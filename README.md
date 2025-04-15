@@ -1,19 +1,19 @@
-# NestJS Gemini
+# NestJS Gen AI
 
 ## Description
 
-Gemini AI module for NestJS based on the Google Generative AI gives you access to Gemini models created by Google DeepMind.
+Google Gen AI module for NestJS supports both the Gemini and Vertex AI.
 
 ## Installation
 
 ```bash
-npm i --save 
+npm i --save nestjs-genai
 ```
 
 ## Stay in touch
 
-[Marcin Stasiak]()
+[Marcin Stasiak](https://marcinstasiak.pl)
 
 ## License
 
-Nest is [MIT licensed](https://github.com/marcin-stasiak/nestjs-gemini/blob/master/LICENSE).
+[MIT licensed](https://github.com/marcin-stasiak/nestjs-genai/blob/master/LICENSE)
