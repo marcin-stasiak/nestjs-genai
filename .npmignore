@@ -1,0 +1,9 @@
+/.run
+/lib
+/test
+/eslint.config.mjs
+/index.ts
+/nest-cli.json
+/package-lock.json
+/prettier.config.mjs
+/tsconfig.json
