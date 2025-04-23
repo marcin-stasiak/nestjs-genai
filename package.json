@@ -1,6 +1,6 @@
 {
   "name": "nestjs-genai",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Google Gen AI module for NestJS",
   "license": "MIT",
   "author": {
